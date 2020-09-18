@@ -1,1 +1,1 @@
-# programa-java-testa-variaveis
+# Exercícios de lógica de programação
